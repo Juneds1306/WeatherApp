@@ -23,7 +23,7 @@ A simple weather web application built using **Java Servlets**, **JSP**, **HTML*
 - **JavaScript**
 - **OpenWeatherMap API**
 - **Apache Tomcat** 
-- **Eclipse / IntelliJ IDEA**
+- **Eclipse**
 
 
 
